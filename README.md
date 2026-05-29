@@ -1,4 +1,4 @@
-![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)
+![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen)
 
 *This project has been created as part of the 42 curriculum by aseveri.*
 
